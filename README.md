@@ -1,6 +1,6 @@
 Install python 2.7, pip from python.org
 
-Once these two are installed then use pip to install these following modules
+Once these two are installed then use pip to install these following modules:
 pip install django
 pip install beautifulsoup
 pip install bs4
